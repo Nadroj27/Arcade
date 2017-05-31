@@ -3,8 +3,8 @@ In this project, you will have to create a gaming platform. This platform must i
 
 1 STEP
 
-make
-make GRAPH
+make;
+make GRAPH;
 
 2 STEPS
 
