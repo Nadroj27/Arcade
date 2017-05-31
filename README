@@ -1,0 +1,15 @@
+1 STEP
+
+make; make GRAPH;
+
+2 STEPS
+
+./arcade ./lib/lib_arcade_sfml.so
+
+COMMANDS:
+
+CHANGE GRAPHIC LIBRARY SHIFT + 2
+
+CHANGE GAME SHIT + 4
+
+EXIT ECHAP
